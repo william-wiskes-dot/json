@@ -1,1 +1,312 @@
-{"data":[{"day":"Thursday","time":"4-9pm","location":"Oakland Secret","type":"Activity","geocode":"37.799276,-122.278190","sort":1,"hide":false,"description":"Check in"},{"day":"Thursday","time":"4-6pm","location":"Oakland Secret","type":"Discussion","geocode":"37.799276,-122.278190","sort":2,"hide":false,"description":"Bikes vs Algorithms with Moe"},{"day":"Thursday","time":"4-8pm","location":"Oakland Secret","type":"Activity","geocode":"37.799276,-122.278190","sort":3,"hide":false,"description":"Draw you life ib Bikes w/ Emma and dinner"},{"day":"Thursday","time":"5-9pm","location":"The Crucible","type":"Activity","geocode":"37.804583,-122.290546","sort":4,"hide":false,"description":"Communiy Repair"},{"day":"Thursday","time":"6-9pm","location":"Unknown","type":"Ride","geocode":"","sort":5,"hide":false,"description":"Oakland history + infrastructure ride"},{"day":"Thursday","time":"6-9pm","location":"Unknown","type":"Ride","geocode":"","sort":5,"hide":true,"description":"Test record for hidden record"},{"day":"Friday","time":"8-10am","location":"Lil Bobby Hutton Park {DeFremery}","type":"Activity","geocode":"37.811930,-122.286543","sort":6,"hide":false,"description":"Breakfast and coffee"},{"day":"Friday","time":"12-4pm","location":"Unknown","type":"Ride","geocode":"","sort":7,"hide":false,"description":"BFN Rid"},{"day":"Friday","time":"1-5pm","location":"Unknown","type":"Ride","geocode":"","sort":8,"hide":false,"description":"Juaquin Miller Ride"},{"day":"Friday","time":"3-6pm","location":"1021 81st Avenue","type":"Discussion","geocode":"37.753571,-122.185372","sort":9,"hide":false,"description":"Bike Library Program Volunteers Hours  + ride to rock the bike "},{"day":"Friday","time":"4-5pm","location":"Rock the Bike","type":"Activity","geocode":"37.846234,-122.285277","sort":10,"hide":false,"description":"Bag Building"},{"day":"Friday","time":"5-8pm","location":"Rock the Bike","type":"Activity","geocode":"37.846234,-122.285277","sort":11,"hide":false,"description":"Party/Open House"},{"day":"Friday","time":"8-11pm","location":"Frank H. Ogawa Plaza","type":"Ride","geocode":"37.804961,-122.271628","sort":12,"hide":false,"description":"East Bay Bike Party"},{"day":"Saturday","time":"8-10am","location":"Lil Bobby Hutton Park {DeFremery}","type":"Activity","geocode":"37.811930,-122.286543","sort":13,"hide":false,"description":"Breakfast and coffee"},{"day":"Saturday","time":"8am-7pm","location":"Mingwei and Bea's House","type":"Activity","geocode":"","sort":14,"hide":false,"description":"Bench Build"},{"day":"Saturday","time":"10am-2pm","location":"Unknown","type":"Ride","geocode":"","sort":15,"hide":false,"description":"Community Bike Shop Tour"},{"day":"Saturday","time":"10am-Noon","location":"Unknown","type":"Ride","geocode":"","sort":16,"hide":false,"description":"Ride for Palestine (Diego CCC0"},{"day":"Saturday","time":"11am-1pm","location":"The Crucible","type":"Activity","geocode":"37.804583,-122.290546","sort":17,"hide":false,"description":"Burner Bike Rehab"},{"day":"Saturday","time":"12-2pm","location":"Lake Merrit Ampitheater","type":"Discussion","geocode":"37.799067,-122.260679","sort":18,"hide":false,"description":"Urban Infrastructure "},{"day":"Saturday","time":"4-5pm","location":"Oakland Secret","type":"Discussion","geocode":"37.799276,-122.278190","sort":19,"hide":false,"description":"Building community through bike activism: several overlapping models"},{"day":"Saturday","time":"7-11pm","location":"Bay Area Maker Farm","type":"Activity","geocode":"37.786859,-122.291729","sort":20,"hide":false,"description":"Dinner, Band, and Party "},{"day":"Sunday","time":"8-10am","location":"Lil Bobby Hutton Park {DeFremery}","type":"Activity","geocode":"37.811930,-122.286543","sort":21,"hide":false,"description":"Breakfast and coffee"},{"day":"Sunday","time":"8am-7pm","location":"Mingwei and Bea's House","type":"Activity","geocode":"","sort":22,"hide":false,"description":"Bench Build"},{"day":"Sunday","time":"9am-Noon","location":"Unknown","type":"Ride","geocode":"","sort":23,"hide":false,"description":"Birding Ride"},{"day":"Sunday","time":"10am-Noon","location":"Lil Bobby Hutton Park {DeFremery}","type":"Discussion","geocode":"37.811930,-122.286543","sort":24,"hide":false,"description":"Group feedback session"},{"day":"Sunday","time":"11am-1pm","location":"Snow Park, Lake Merrit ","type":"Discussion","geocode":"37.807700,-122.264020","sort":25,"hide":false,"description":"Ride leaders: How to build and mantain a bike community + Social Mixer"},{"day":"Sunday","time":"Noon-2pm","location":"Stay Gold Deli ","type":"Activity","geocode":"37.817852,-122.275794","sort":26,"hide":false,"description":"Bike and Transit Zine Mixer"},{"day":"Sunday","time":"1-3pm","location":"The Crucible","type":"Activity","geocode":"37.804583,-122.290546","sort":27,"hide":false,"description":"Wheel Buildibg with Shane"},{"day":"Sunday","time":"5-10pm","location":"Unknown","type":"Ride","geocode":"","sort":28,"hide":false,"description":"Shenanigans!!"},{"day":"Sunday","time":"3-6pm","location":"Oakland Secret","type":"Discussion","geocode":"37.799276,-122.278190","sort":29,"hide":false,"description":"Consesus/Dinner"}]}
+[
+  [
+    "day",
+    "time",
+    "location",
+    "type",
+    "geocode",
+    "sort",
+    "hide",
+    "description"
+  ],
+  [
+    "Thursday",
+    "4-9pm",
+    "Oakland Secret",
+    "Activity",
+    "37.799276,-122.278190",
+    1,
+    false,
+    "Check in"
+  ],
+  [
+    "Thursday",
+    "4-6pm",
+    "Oakland Secret",
+    "Discussion",
+    "37.799276,-122.278190",
+    2,
+    false,
+    "Bikes vs Algorithms with Moe"
+  ],
+  [
+    "Thursday",
+    "4-8pm",
+    "Oakland Secret",
+    "Activity",
+    "37.799276,-122.278190",
+    3,
+    false,
+    "Draw you life ib Bikes w/ Emma and dinner"
+  ],
+  [
+    "Thursday",
+    "5-9pm",
+    "The Crucible",
+    "Activity",
+    "37.804583,-122.290546",
+    4,
+    false,
+    "Communiy Repair"
+  ],
+  [
+    "Thursday",
+    "6-9pm",
+    "Unknown",
+    "Ride",
+    "",
+    5,
+    false,
+    "Oakland history + infrastructure ride"
+  ],
+  [
+    "Thursday",
+    "6-9pm",
+    "Unknown",
+    "Ride",
+    "",
+    6,
+    true,
+    "Test record for hidden record"
+  ],
+  [
+    "Friday",
+    "8-10am",
+    "Lil Bobby Hutton Park {DeFremery}",
+    "Activity",
+    "37.811930,-122.286543",
+    7,
+    false,
+    "Breakfast and coffee"
+  ],
+  [
+    "Friday",
+    "12-4pm",
+    "Unknown",
+    "Ride",
+    "",
+    8,
+    false,
+    "BFN Rid"
+  ],
+  [
+    "Friday",
+    "1-5pm",
+    "Unknown",
+    "Ride",
+    "",
+    9,
+    false,
+    "Juaquin Miller Ride"
+  ],
+  [
+    "Friday",
+    "3-6pm",
+    "1021 81st Avenue",
+    "Discussion",
+    "37.753571,-122.185372",
+    10,
+    false,
+    "Bike Library Program Volunteers Hours  + ride to rock the bike "
+  ],
+  [
+    "Friday",
+    "4-5pm",
+    "Rock the Bike",
+    "Activity",
+    "37.846234,-122.285277",
+    11,
+    false,
+    "Bag Building"
+  ],
+  [
+    "Friday",
+    "5-8pm",
+    "Rock the Bike",
+    "Activity",
+    "37.846234,-122.285277",
+    12,
+    false,
+    "Party/Open House"
+  ],
+  [
+    "Friday",
+    "8-11pm",
+    "Frank H. Ogawa Plaza",
+    "Ride",
+    "37.804961,-122.271628",
+    13,
+    false,
+    "East Bay Bike Party"
+  ],
+  [
+    "Saturday",
+    "8-10am",
+    "Lil Bobby Hutton Park {DeFremery}",
+    "Activity",
+    "37.811930,-122.286543",
+    14,
+    false,
+    "Breakfast and coffee"
+  ],
+  [
+    "Saturday",
+    "8am-7pm",
+    "Mingwei and Bea's House",
+    "Activity",
+    "",
+    15,
+    false,
+    "Bench Build"
+  ],
+  [
+    "Saturday",
+    "10am-2pm",
+    "Unknown",
+    "Ride",
+    "",
+    16,
+    false,
+    "Community Bike Shop Tour"
+  ],
+  [
+    "Saturday",
+    "10am-Noon",
+    "Unknown",
+    "Ride",
+    "",
+    17,
+    false,
+    "Ride for Palestine (Diego CCC0"
+  ],
+  [
+    "Saturday",
+    "11am-1pm",
+    "The Crucible",
+    "Activity",
+    "37.804583,-122.290546",
+    18,
+    false,
+    "Burner Bike Rehab"
+  ],
+  [
+    "Saturday",
+    "12-2pm",
+    "Lake Merrit Ampitheater",
+    "Discussion",
+    "37.799067,-122.260679",
+    19,
+    false,
+    "Urban Infrastructure "
+  ],
+  [
+    "Saturday",
+    "4-5pm",
+    "Oakland Secret",
+    "Discussion",
+    "37.799276,-122.278190",
+    20,
+    false,
+    "Building community through bike activism: several overlapping models"
+  ],
+  [
+    "Saturday",
+    "7-11pm",
+    "Bay Area Maker Farm",
+    "Activity",
+    "37.786859,-122.291729",
+    21,
+    false,
+    "Dinner, Band, and Party "
+  ],
+  [
+    "Sunday",
+    "8-10am",
+    "Lil Bobby Hutton Park {DeFremery}",
+    "Activity",
+    "37.811930,-122.286543",
+    22,
+    false,
+    "Breakfast and coffee"
+  ],
+  [
+    "Sunday",
+    "8am-7pm",
+    "Mingwei and Bea's House",
+    "Activity",
+    "",
+    23,
+    false,
+    "Bench Build"
+  ],
+  [
+    "Sunday",
+    "9am-Noon",
+    "Unknown",
+    "Ride",
+    "",
+    24,
+    false,
+    "Birding Ride"
+  ],
+  [
+    "Sunday",
+    "10am-Noon",
+    "Lil Bobby Hutton Park {DeFremery}",
+    "Discussion",
+    "37.811930,-122.286543",
+    25,
+    false,
+    "Group feedback session"
+  ],
+  [
+    "Sunday",
+    "11am-1pm",
+    "Snow Park, Lake Merrit ",
+    "Discussion",
+    "37.807700,-122.264020",
+    26,
+    false,
+    "Ride leaders: How to build and mantain a bike community + Social Mixer"
+  ],
+  [
+    "Sunday",
+    "Noon-2pm",
+    "Stay Gold Deli ",
+    "Activity",
+    "37.817852,-122.275794",
+    27,
+    false,
+    "Bike and Transit Zine Mixer"
+  ],
+  [
+    "Sunday",
+    "1-3pm",
+    "The Crucible",
+    "Activity",
+    "37.804583,-122.290546",
+    28,
+    false,
+    "Wheel Buildibg with Shane"
+  ],
+  [
+    "Sunday",
+    "5-10pm",
+    "Unknown",
+    "Ride",
+    "",
+    29,
+    false,
+    "Shenanigans!!"
+  ],
+  [
+    "Sunday",
+    "3-6pm",
+    "Oakland Secret",
+    "Discussion",
+    "37.799276,-122.278190",
+    30,
+    false,
+    "Consesus/Dinner"
+  ]
+]
