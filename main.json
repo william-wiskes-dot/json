@@ -145,7 +145,7 @@
       "time": "8am-7pm",
       "location": "Mingwei and Bea's House",
       "type": "Activity",
-      "geocode": "",
+      "geocode": "37.811443, -122.277122",
       "sort": 15,
       "hide": false,
       "description": "Bench Build"
@@ -225,7 +225,7 @@
       "time": "8am-7pm",
       "location": "Mingwei and Bea's House",
       "type": "Activity",
-      "geocode": "",
+      "geocode": "37.811443, -122.277122",
       "sort": 23,
       "hide": false,
       "description": "Bench Build"
