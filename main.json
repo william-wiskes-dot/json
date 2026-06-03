@@ -7,7 +7,7 @@
       "type": "Activity",
       "geocode": "37.799276,-122.278190",
       "sort": 1,
-      "hide": false,
+      "hide": true,
       "description": "Check in"
     },
     {
@@ -51,22 +51,12 @@
       "description": "Oakland history + infrastructure ride"
     },
     {
-      "day": "Thursday",
-      "time": "6-9pm",
-      "location": "Unknown",
-      "type": "Ride",
-      "geocode": "",
-      "sort": 6,
-      "hide": true,
-      "description": "Test record for hidden record"
-    },
-    {
       "day": "Friday",
       "time": "8-10am",
       "location": "Lil Bobby Hutton Park {DeFremery}",
       "type": "Activity",
       "geocode": "37.811930,-122.286543",
-      "sort": 7,
+      "sort": 6,
       "hide": false,
       "description": "Breakfast and coffee"
     },
@@ -76,7 +66,7 @@
       "location": "Unknown",
       "type": "Ride",
       "geocode": "",
-      "sort": 8,
+      "sort": 7,
       "hide": false,
       "description": "BFN Rid"
     },
@@ -86,7 +76,7 @@
       "location": "Unknown",
       "type": "Ride",
       "geocode": "",
-      "sort": 9,
+      "sort": 8,
       "hide": false,
       "description": "Juaquin Miller Ride"
     },
@@ -96,7 +86,7 @@
       "location": "1021 81st Avenue",
       "type": "Discussion",
       "geocode": "37.753571,-122.185372",
-      "sort": 10,
+      "sort": 9,
       "hide": false,
       "description": "Bike Library Program Volunteers Hours  + ride to rock the bike "
     },
@@ -106,7 +96,7 @@
       "location": "Rock the Bike",
       "type": "Activity",
       "geocode": "37.846234,-122.285277",
-      "sort": 11,
+      "sort": 10,
       "hide": false,
       "description": "Bag Building"
     },
@@ -116,7 +106,7 @@
       "location": "Rock the Bike",
       "type": "Activity",
       "geocode": "37.846234,-122.285277",
-      "sort": 12,
+      "sort": 11,
       "hide": false,
       "description": "Party/Open House"
     },
@@ -126,7 +116,7 @@
       "location": "Frank H. Ogawa Plaza",
       "type": "Ride",
       "geocode": "37.804961,-122.271628",
-      "sort": 13,
+      "sort": 12,
       "hide": false,
       "description": "East Bay Bike Party"
     },
@@ -136,7 +126,7 @@
       "location": "Lil Bobby Hutton Park {DeFremery}",
       "type": "Activity",
       "geocode": "37.811930,-122.286543",
-      "sort": 14,
+      "sort": 13,
       "hide": false,
       "description": "Breakfast and coffee"
     },
@@ -146,7 +136,7 @@
       "location": "Mingwei and Bea's House",
       "type": "Activity",
       "geocode": "37.811443,-122.277122",
-      "sort": 15,
+      "sort": 14,
       "hide": false,
       "description": "Bench Build"
     },
@@ -156,7 +146,7 @@
       "location": "Unknown",
       "type": "Ride",
       "geocode": "",
-      "sort": 16,
+      "sort": 15,
       "hide": false,
       "description": "Community Bike Shop Tour"
     },
@@ -166,7 +156,7 @@
       "location": "Lake Merrit Bart",
       "type": "Ride",
       "geocode": "37.797351,-122.265836",
-      "sort": 17,
+      "sort": 16,
       "hide": false,
       "description": "Ride for palestine. 10am meet, 10:30am roll. Ride ends at the Bike!Bike! urban infrastructure and municipal code panel at noon."
     },
@@ -176,7 +166,7 @@
       "location": "The Crucible",
       "type": "Activity",
       "geocode": "37.804583,-122.290546",
-      "sort": 18,
+      "sort": 17,
       "hide": false,
       "description": "Burner Bike Rehab"
     },
@@ -186,7 +176,7 @@
       "location": "Lake Merrit Ampitheater",
       "type": "Discussion",
       "geocode": "37.799067,-122.260679",
-      "sort": 19,
+      "sort": 18,
       "hide": false,
       "description": "Urban infrastructure and municipal code panel "
     },
@@ -196,7 +186,7 @@
       "location": "Oakland Secret",
       "type": "Discussion",
       "geocode": "37.799276,-122.278190",
-      "sort": 20,
+      "sort": 19,
       "hide": false,
       "description": "Building community through bike activism: several overlapping models"
     },
@@ -206,7 +196,7 @@
       "location": "Bay Area Maker Farm",
       "type": "Activity",
       "geocode": "37.786859,-122.291729",
-      "sort": 21,
+      "sort": 20,
       "hide": false,
       "description": "Dinner, Band, and Party "
     },
@@ -216,7 +206,7 @@
       "location": "Lil Bobby Hutton Park {DeFremery}",
       "type": "Activity",
       "geocode": "37.811930,-122.286543",
-      "sort": 22,
+      "sort": 21,
       "hide": false,
       "description": "Breakfast and coffee"
     },
@@ -226,7 +216,7 @@
       "location": "Mingwei and Bea's House",
       "type": "Activity",
       "geocode": "37.811443,-122.277122",
-      "sort": 23,
+      "sort": 22,
       "hide": false,
       "description": "Bench Build"
     },
@@ -236,7 +226,7 @@
       "location": "Unknown",
       "type": "Ride",
       "geocode": "",
-      "sort": 24,
+      "sort": 23,
       "hide": false,
       "description": "Birding Ride"
     },
@@ -246,7 +236,7 @@
       "location": "Lil Bobby Hutton Park {DeFremery}",
       "type": "Discussion",
       "geocode": "37.811930,-122.286543",
-      "sort": 25,
+      "sort": 24,
       "hide": false,
       "description": "Group feedback session"
     },
@@ -256,7 +246,7 @@
       "location": "Snow Park, Lake Merrit ",
       "type": "Discussion",
       "geocode": "37.807700,-122.264020",
-      "sort": 26,
+      "sort": 25,
       "hide": false,
       "description": "Ride leaders: How to build and mantain a bike community + Social Mixer"
     },
@@ -266,7 +256,7 @@
       "location": "Stay Gold Deli ",
       "type": "Activity",
       "geocode": "37.817852,-122.275794",
-      "sort": 27,
+      "sort": 26,
       "hide": false,
       "description": "Bike and Transit Zine Mixer"
     },
@@ -276,7 +266,7 @@
       "location": "The Crucible",
       "type": "Activity",
       "geocode": "37.804583,-122.290546",
-      "sort": 28,
+      "sort": 27,
       "hide": false,
       "description": "Wheel Buildibg with Shane"
     },
@@ -286,7 +276,7 @@
       "location": "Unknown",
       "type": "Ride",
       "geocode": "",
-      "sort": 29,
+      "sort": 28,
       "hide": false,
       "description": "Shenanigans!!"
     },
@@ -296,7 +286,7 @@
       "location": "Oakland Secret",
       "type": "Discussion",
       "geocode": "37.799276,-122.278190",
-      "sort": 30,
+      "sort": 29,
       "hide": false,
       "description": "Consesus/Dinner"
     }
