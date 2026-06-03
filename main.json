@@ -7,7 +7,7 @@
       "type": "Activity",
       "geocode": "37.799276,-122.278190",
       "sort": 1,
-      "hide": true,
+      "hide": false,
       "description": "Check in"
     },
     {
