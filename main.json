@@ -192,11 +192,21 @@
     },
     {
       "day": "Saturday",
+      "time": "4-6pm",
+      "location": "BORP Adaptive Cycling and Kayaking Center",
+      "type": "Activity",
+      "geocode": "",
+      "sort": 20,
+      "hide": false,
+      "description": "Adaptive Cycling/ Cycling for all Bodies"
+    },
+    {
+      "day": "Saturday",
       "time": "7-11pm",
       "location": "Bay Area Maker Farm",
       "type": "Activity",
       "geocode": "37.786859,-122.291729",
-      "sort": 20,
+      "sort": 21,
       "hide": false,
       "description": "Dinner, Band, and Party "
     },
@@ -206,7 +216,7 @@
       "location": "Lil Bobby Hutton Park {DeFremery}",
       "type": "Activity",
       "geocode": "37.811930,-122.286543",
-      "sort": 21,
+      "sort": 22,
       "hide": false,
       "description": "Breakfast and coffee"
     },
@@ -216,7 +226,7 @@
       "location": "Mingwei and Bea's House",
       "type": "Activity",
       "geocode": "37.811635,-122.277369",
-      "sort": 22,
+      "sort": 23,
       "hide": false,
       "description": "Bench Build"
     },
@@ -226,7 +236,7 @@
       "location": "Unknown",
       "type": "Ride",
       "geocode": "",
-      "sort": 23,
+      "sort": 24,
       "hide": false,
       "description": "Birding Ride"
     },
@@ -236,7 +246,7 @@
       "location": "Lil Bobby Hutton Park {DeFremery}",
       "type": "Discussion",
       "geocode": "37.811930,-122.286543",
-      "sort": 24,
+      "sort": 25,
       "hide": false,
       "description": "Group feedback session"
     },
@@ -246,7 +256,7 @@
       "location": "Snow Park, Lake Merrit ",
       "type": "Discussion",
       "geocode": "37.807700,-122.264020",
-      "sort": 25,
+      "sort": 26,
       "hide": false,
       "description": "Ride leaders: How to build and mantain a bike community + Social Mixer"
     },
@@ -256,7 +266,7 @@
       "location": "Stay Gold Deli ",
       "type": "Activity",
       "geocode": "37.817852,-122.275794",
-      "sort": 26,
+      "sort": 27,
       "hide": false,
       "description": "Bike and Transit Zine Mixer"
     },
@@ -266,7 +276,7 @@
       "location": "The Crucible",
       "type": "Activity",
       "geocode": "37.804583,-122.290546",
-      "sort": 27,
+      "sort": 28,
       "hide": false,
       "description": "Wheel Buildibg with Shane"
     },
@@ -276,7 +286,7 @@
       "location": "Unknown",
       "type": "Ride",
       "geocode": "",
-      "sort": 28,
+      "sort": 29,
       "hide": false,
       "description": "Shenanigans!!"
     },
@@ -286,7 +296,7 @@
       "location": "Oakland Secret",
       "type": "Discussion",
       "geocode": "37.799276,-122.278190",
-      "sort": 29,
+      "sort": 30,
       "hide": false,
       "description": "Consesus/Dinner"
     }
