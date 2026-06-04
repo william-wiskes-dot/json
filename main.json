@@ -83,7 +83,7 @@
     {
       "day": "Friday",
       "time": "3-6pm",
-      "location": "1021 81st Avenue",
+      "location": "Oakland Public Library: 81st Avenue Branch",
       "type": "Discussion",
       "geocode": "37.753571,-122.185372",
       "sort": 9,
@@ -194,8 +194,8 @@
       "day": "Saturday",
       "time": "4-6pm",
       "location": "BORP Adaptive Cycling and Kayaking Center",
-      "type": "Activity",
-      "geocode": "",
+      "type": "Discussion",
+      "geocode": "37.864957,-122.301797",
       "sort": 20,
       "hide": false,
       "description": "Adaptive Cycling/ Cycling for all Bodies"
