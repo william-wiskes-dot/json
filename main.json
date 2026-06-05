@@ -45,7 +45,7 @@
       "time": "6-9pm",
       "location": "Jack London Square",
       "type": "Ride",
-      "geocode": "",
+      "geocode": "37.794773,-122.277270",
       "sort": 5,
       "hide": false,
       "description": "Oakland history + infrastructure ride"
