@@ -47,7 +47,7 @@
       "type": "Ride",
       "geocode": "37.794773,-122.277270",
       "sort": 5,
-      "hide": false,
+      "hide": true,
       "description": "Oakland history + infrastructure ride"
     },
     {
@@ -57,7 +57,7 @@
       "type": "Activity",
       "geocode": "37.811930,-122.286543",
       "sort": 6,
-      "hide": false,
+      "hide": true,
       "description": "Breakfast and coffee"
     },
     {
@@ -67,7 +67,7 @@
       "type": "Ride",
       "geocode": "",
       "sort": 7,
-      "hide": false,
+      "hide": true,
       "description": "BFN Ride"
     },
     {
@@ -77,7 +77,7 @@
       "type": "Ride",
       "geocode": "",
       "sort": 8,
-      "hide": false,
+      "hide": true,
       "description": "Joaquin Miller Ride"
     },
     {
@@ -87,7 +87,7 @@
       "type": "Discussion",
       "geocode": "37.753571,-122.185372",
       "sort": 9,
-      "hide": false,
+      "hide": true,
       "description": "Bike Library Program: Learn about this resource at one of Oakland's public libraries. Afterward we will ride to rock the bike together."
     },
     {
@@ -97,7 +97,7 @@
       "type": "Activity",
       "geocode": "37.846234,-122.285277",
       "sort": 10,
-      "hide": false,
+      "hide": true,
       "description": "Frame bag creation with Bikepack the Bay. Please bring cardboard (for drafting patterns), vinyl/canvas to sew with, and velcro/zippers."
     },
     {
@@ -107,7 +107,7 @@
       "type": "Activity",
       "geocode": "37.846234,-122.285277",
       "sort": 11,
-      "hide": false,
+      "hide": true,
       "description": "Open House at Rock the Bike: We're inventors and advocates building pedal powered blenders, generators, and more at a sweet workshop in Oakland, California, pushing the limits of bike culture. Our mission is to inspire people to make a real, lasting impact on the ongoing climate crisis through Pedal Powered event activities and products that prioritize health, wellness, education, and environmentalism."
     },
     {
@@ -127,7 +127,7 @@
       "type": "Activity",
       "geocode": "37.811930,-122.286543",
       "sort": 13,
-      "hide": false,
+      "hide": true,
       "description": "Breakfast and coffee"
     },
     {
@@ -137,7 +137,7 @@
       "type": "Activity",
       "geocode": "37.811635,-122.277369",
       "sort": 14,
-      "hide": false,
+      "hide": true,
       "description": "Community bench building - cutting and painting. The San Francisco Bay Area Bench Collective is a decentralized collaboration of local neighbors who build, install, and maintain much-needed benches."
     },
     {
@@ -147,7 +147,7 @@
       "type": "Ride",
       "geocode": "",
       "sort": 15,
-      "hide": false,
+      "hide": true,
       "description": "Community Bike Shop Tour"
     },
     {
@@ -167,7 +167,7 @@
       "type": "Activity",
       "geocode": "37.826744,-122.272166",
       "sort": 17,
-      "hide": false,
+      "hide": true,
       "description": "Burner Bike Rehab. Ever wanted to learn how to bring a bicycle back from the dead? Nothing kills a bike faster than the dust from burningman, learn the steps involved in rehabbing a burningman bike."
     },
     {
@@ -177,7 +177,7 @@
       "type": "Discussion",
       "geocode": "37.799067,-122.260679",
       "sort": 18,
-      "hide": false,
+      "hide": true,
       "description": "Urban infrastructure and municipal code panel "
     },
     {
@@ -187,7 +187,7 @@
       "type": "Discussion",
       "geocode": "37.799276,-122.278190",
       "sort": 19,
-      "hide": false,
+      "hide": true,
       "description": "Building community through bike activism: several overlapping models"
     },
     {
