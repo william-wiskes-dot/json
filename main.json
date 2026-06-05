@@ -33,9 +33,9 @@
     {
       "day": "Thursday",
       "time": "5-9pm",
-      "location": "The Crucible",
+      "location": "Oakland Secret",
       "type": "Activity",
-      "geocode": "37.804583,-122.290546",
+      "geocode": "37.799276,-122.278190",
       "sort": 4,
       "hide": false,
       "description": "Community Repair"
@@ -163,9 +163,9 @@
     {
       "day": "Saturday",
       "time": "11am-1pm",
-      "location": "The Crucible",
+      "location": "Spokeland",
       "type": "Activity",
-      "geocode": "37.804583,-122.290546",
+      "geocode": "",
       "sort": 17,
       "hide": false,
       "description": "Burner Bike Rehab. Ever wanted to learn how to bring a bicycle back from the dead? Nothing kills a bike faster than the dust from burningman, learn the steps involved in rehabbing a burningman bike."
@@ -275,7 +275,7 @@
       "time": "1-3pm",
       "location": "Spokeland",
       "type": "Activity",
-      "geocode": "37.804583,-122.290546",
+      "geocode": "",
       "sort": 28,
       "hide": false,
       "description": "Wheel-building with Shane"
