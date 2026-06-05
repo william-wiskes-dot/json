@@ -282,23 +282,23 @@
     },
     {
       "day": "Sunday",
-      "time": "5-10pm",
-      "location": "Unknown",
-      "type": "Activity",
-      "geocode": "",
-      "sort": 29,
-      "hide": true,
-      "description": "Shenanigans!!"
-    },
-    {
-      "day": "Sunday",
       "time": "3-6pm",
       "location": "Oakland Secret",
       "type": "Discussion",
       "geocode": "37.799276,-122.278190",
-      "sort": 30,
+      "sort": 29,
       "hide": true,
       "description": "Consensus / Dinner"
+    },
+    {
+      "day": "Sunday",
+      "time": "5-10pm",
+      "location": "Unknown",
+      "type": "Activity",
+      "geocode": "",
+      "sort": 30,
+      "hide": true,
+      "description": "Shenanigans!!"
     }
   ]
 }
