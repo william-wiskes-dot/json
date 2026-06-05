@@ -233,12 +233,12 @@
     {
       "day": "Sunday",
       "time": "9am-Noon",
-      "location": "Unknown",
+      "location": "Wilma Chan Park",
       "type": "Ride",
-      "geocode": "",
+      "geocode": "37.797973,-122.266809",
       "sort": 24,
       "hide": true,
-      "description": "Birding Ride"
+      "description": "Birding Ride. Check out some of Oaklands most striking passerines and shorebirds as we wind our way through parks and estuarial areas. Please BYOB (bring your own binoculars)"
     },
     {
       "day": "Sunday",
