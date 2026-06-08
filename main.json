@@ -55,7 +55,7 @@
       "time": "8-10am",
       "location": "1716 Filbert St Oakland Ca",
       "type": "Activity",
-      "geocode": "37.811930,-122.286543",
+      "geocode": "37.811323, -122.282029",
       "sort": 6,
       "hide": true,
       "description": "Breakfast and coffee"
@@ -205,7 +205,7 @@
       "time": "8-10am",
       "location": "Lil Bobby Hutton Park {DeFremery}",
       "type": "Activity",
-      "geocode": "37.811930,-122.286543",
+      "geocode": "37.811323, -122.282029",
       "sort": 21,
       "hide": true,
       "description": "Breakfast and coffee"
@@ -232,10 +232,10 @@
     },
     {
       "day": "Sunday",
-      "time": "10am-Noon",
+      "time": "10am-11am",
       "location": "Lil Bobby Hutton Park {DeFremery}",
       "type": "Discussion",
-      "geocode": "37.811930,-122.286543",
+      "geocode": "37.811323, -122.282029",
       "sort": 24,
       "hide": true,
       "description": "Group feedback session"
