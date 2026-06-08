@@ -167,7 +167,7 @@
       "type": "Discussion",
       "geocode": "37.799276,-122.278190",
       "sort": 17,
-      "hide": false,
+      "hide": true,
       "description": "Presentation with author of 'Shift Happens' and one of the founders of Critical Mass"
     },
     {
