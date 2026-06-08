@@ -172,7 +172,7 @@
     },
     {
       "day": "Saturday",
-      "time": "3pm-4pm",
+      "time": "3-4pm",
       "location": "Unknown ",
       "type": "Discussion",
       "geocode": "",
@@ -242,7 +242,7 @@
     },
     {
       "day": "Sunday",
-      "time": "10am-11am",
+      "time": "10-11am",
       "location": "Lil Bobby Hutton Park {DeFremery}",
       "type": "Discussion",
       "geocode": "37.811323,-122.282029",
