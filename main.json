@@ -162,19 +162,19 @@
     },
     {
       "day": "Saturday",
-      "time": "",
-      "location": "",
-      "type": "",
-      "geocode": "",
+      "time": "2:30-3pm",
+      "location": "Oakland Secret",
+      "type": "Discussion",
+      "geocode": "37.799276,-122.278190",
       "sort": 17,
       "hide": false,
-      "description": ""
+      "description": "Presentation with author of 'Shift Happens' and one of the founders of Critical Mass"
     },
     {
       "day": "Saturday",
       "time": "3pm-4pm",
       "location": "Bike Party Panel",
-      "type": "",
+      "type": "Discussion",
       "geocode": "",
       "sort": 18,
       "hide": false,
