@@ -72,21 +72,11 @@
     },
     {
       "day": "Friday",
-      "time": "1-5pm",
-      "location": "Unknown",
-      "type": "Ride",
-      "geocode": "",
-      "sort": 8,
-      "hide": true,
-      "description": "Joaquin Miller Ride"
-    },
-    {
-      "day": "Friday",
       "time": "3-6pm",
       "location": "Oakland Public Library: 81st Avenue Branch",
       "type": "Discussion",
       "geocode": "37.753571,-122.185372",
-      "sort": 9,
+      "sort": 8,
       "hide": true,
       "description": "Bike Library Program: Learn about this resource at one of Oakland's public libraries. Afterward we will ride to rock the bike together."
     },
@@ -96,7 +86,7 @@
       "location": "Rock the Bike",
       "type": "Activity",
       "geocode": "37.846234,-122.285277",
-      "sort": 10,
+      "sort": 9,
       "hide": true,
       "description": "Frame bag creation with Bikepack the Bay. Please bring cardboard (for drafting patterns), vinyl/canvas to sew with, and velcro/zippers."
     },
@@ -106,7 +96,7 @@
       "location": "Rock the Bike",
       "type": "Activity",
       "geocode": "37.846234,-122.285277",
-      "sort": 11,
+      "sort": 10,
       "hide": true,
       "description": "Open House at Rock the Bike: We're inventors and advocates building pedal powered blenders, generators, and more at a sweet workshop in Oakland, California, pushing the limits of bike culture. Our mission is to inspire people to make a real, lasting impact on the ongoing climate crisis through pedal powered event activities and products that prioritize health, wellness, education, and environmentalism."
     },
@@ -116,7 +106,7 @@
       "location": "Frank H. Ogawa Plaza",
       "type": "Ride",
       "geocode": "37.804961,-122.271628",
-      "sort": 12,
+      "sort": 11,
       "hide": false,
       "description": "East Bay Bike Party (EBBP) is a mobile party for riders of all ages, experience levels, and types to meet, ride, and play together in the streets. Rides are casual, with party stops at public spaces along a 10-15 mile route. "
     },
@@ -126,7 +116,7 @@
       "location": "Lil Bobby Hutton Park {DeFremery}",
       "type": "Activity",
       "geocode": "37.811930,-122.286543",
-      "sort": 13,
+      "sort": 12,
       "hide": true,
       "description": "Breakfast and coffee"
     },
@@ -136,7 +126,7 @@
       "location": "Mingwei and Bea's House",
       "type": "Activity",
       "geocode": "37.811635,-122.277369",
-      "sort": 14,
+      "sort": 13,
       "hide": true,
       "description": "Community bench building - cutting and painting. The San Francisco Bay Area Bench Collective is a decentralized collaboration of local neighbors who build, install, and maintain much-needed benches."
     },
@@ -146,7 +136,7 @@
       "location": "Unknown",
       "type": "Ride",
       "geocode": "",
-      "sort": 15,
+      "sort": 14,
       "hide": true,
       "description": "Community Bike Shop Tour"
     },
@@ -156,7 +146,7 @@
       "location": "Lake Merritt Bart",
       "type": "Ride",
       "geocode": "37.797744,-122.266451",
-      "sort": 16,
+      "sort": 15,
       "hide": false,
       "description": "Ride for palestine by Cycles of Change. 10am meet, 10:30am roll. Ride ends at the Bike!Bike! urban infrastructure and municipal code panel at noon."
     },
@@ -166,7 +156,7 @@
       "location": "Spokeland",
       "type": "Activity",
       "geocode": "37.826744,-122.272166",
-      "sort": 17,
+      "sort": 16,
       "hide": true,
       "description": "Burner Bike Rehab. Ever wanted to learn how to bring a bicycle back from the dead? Nothing kills a bike faster than the dust from burningman, learn the steps involved in rehabbing a burningman bike."
     },
@@ -176,7 +166,7 @@
       "location": "Lake Merritt Amphitheater",
       "type": "Discussion",
       "geocode": "37.799067,-122.260679",
-      "sort": 18,
+      "sort": 17,
       "hide": true,
       "description": "Urban infrastructure and municipal code panel "
     },
@@ -186,9 +176,9 @@
       "location": "Bike Party Panel",
       "type": "",
       "geocode": "",
-      "sort": 19,
+      "sort": 18,
       "hide": false,
-      "description": ""
+      "description": "A gathering of Bike Party organizers from across the country."
     },
     {
       "day": "Saturday",
@@ -196,7 +186,7 @@
       "location": "Oakland Secret",
       "type": "Discussion",
       "geocode": "37.799276,-122.278190",
-      "sort": 20,
+      "sort": 19,
       "hide": true,
       "description": "Building community through bike activism: several overlapping models"
     },
@@ -206,7 +196,7 @@
       "location": "BORP Adaptive Cycling and Kayaking Center",
       "type": "Discussion",
       "geocode": "37.864957,-122.301797",
-      "sort": 21,
+      "sort": 20,
       "hide": true,
       "description": "Adaptive Cycling / Cycling for all Bodies"
     },
@@ -216,7 +206,7 @@
       "location": "Bay Area Maker Farm",
       "type": "Activity",
       "geocode": "37.786859,-122.291729",
-      "sort": 22,
+      "sort": 21,
       "hide": false,
       "description": "Dinner, Band, and Party. Featuring Big Tractor, the Hobo Goblins, and Eee Vee Eee"
     },
@@ -226,7 +216,7 @@
       "location": "Lil Bobby Hutton Park {DeFremery}",
       "type": "Activity",
       "geocode": "37.811930,-122.286543",
-      "sort": 23,
+      "sort": 22,
       "hide": true,
       "description": "Breakfast and coffee"
     },
@@ -236,7 +226,7 @@
       "location": "Mingwei and Bea's House",
       "type": "Activity",
       "geocode": "37.811635,-122.277369",
-      "sort": 24,
+      "sort": 23,
       "hide": true,
       "description": "Community bench building - assembly and install. The San Francisco Bay Area Bench Collective is decentralized collaboration of local neighbors who build, install, and maintain much-needed benches."
     },
@@ -246,7 +236,7 @@
       "location": "Wilma Chan Park",
       "type": "Ride",
       "geocode": "37.797744,-122.266451",
-      "sort": 25,
+      "sort": 24,
       "hide": true,
       "description": "Birding Ride. Check out some of Oaklands most striking passerines and shorebirds as we wind our way through parks and estuarial areas. Please BYOB (bring your own binoculars)"
     },
@@ -256,7 +246,7 @@
       "location": "Lil Bobby Hutton Park {DeFremery}",
       "type": "Discussion",
       "geocode": "37.811930,-122.286543",
-      "sort": 26,
+      "sort": 25,
       "hide": true,
       "description": "Group feedback session"
     },
@@ -266,7 +256,7 @@
       "location": "Snow Park, Lake Merritt ",
       "type": "Discussion",
       "geocode": "37.807700,-122.264020",
-      "sort": 27,
+      "sort": 26,
       "hide": true,
       "description": "Ride leaders: How to build and maintain a bike community + Social Mixer"
     },
@@ -276,7 +266,7 @@
       "location": "Stay Gold Deli ",
       "type": "Activity",
       "geocode": "37.817852,-122.275794",
-      "sort": 28,
+      "sort": 27,
       "hide": true,
       "description": "Bike and Transit Zine Mixer"
     },
@@ -286,7 +276,7 @@
       "location": "Spokeland",
       "type": "Activity",
       "geocode": "37.826744,-122.272166",
-      "sort": 29,
+      "sort": 28,
       "hide": true,
       "description": "Wheel-building with Shane. Learn how to measure a hub, find the ERD of your rim, and calculate spoke length to build your own custom wheelset."
     },
@@ -296,7 +286,7 @@
       "location": "Oakland Secret",
       "type": "Discussion",
       "geocode": "37.799276,-122.278190",
-      "sort": 30,
+      "sort": 29,
       "hide": true,
       "description": "Consensus / Dinner"
     },
@@ -306,7 +296,7 @@
       "location": "Unknown",
       "type": "Activity",
       "geocode": "",
-      "sort": 31,
+      "sort": 30,
       "hide": true,
       "description": "Shenanigans!!"
     }
