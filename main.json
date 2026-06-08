@@ -173,12 +173,12 @@
     {
       "day": "Saturday",
       "time": "3pm-4pm",
-      "location": "Bike Party Panel",
+      "location": "Unknown ",
       "type": "Discussion",
       "geocode": "",
       "sort": 18,
-      "hide": false,
-      "description": "A gathering of Bike Party organizers from across the country."
+      "hide": true,
+      "description": "Bike Party Panel; a gathering of Bike Party organizers from across the country."
     },
     {
       "day": "Saturday",
