@@ -218,7 +218,7 @@
       "geocode": "37.811323,-122.282029",
       "sort": 22,
       "hide": true,
-      "description": "Breakfast and coffee"
+      "description": true
     },
     {
       "day": "Sunday",
