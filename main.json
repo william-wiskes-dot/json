@@ -53,7 +53,7 @@
     {
       "day": "Friday",
       "time": "8-10am",
-      "location": "1716 Filbert St Oakland Ca",
+      "location": "1716 Filbert Street",
       "type": "Activity",
       "geocode": "37.811323,-122.282029",
       "sort": 6,
@@ -103,7 +103,7 @@
     {
       "day": "Saturday",
       "time": "8-10am",
-      "location": "1716 Filbert St Oakland Ca",
+      "location": "1716 Filbert Street",
       "type": "Activity",
       "geocode": "37.811323,-122.282029",
       "sort": 11,
@@ -173,9 +173,9 @@
     {
       "day": "Saturday",
       "time": "3-4pm",
-      "location": "Unknown ",
+      "location": "Oakland Secret",
       "type": "Discussion",
-      "geocode": "",
+      "geocode": "37.799276,-122.278190",
       "sort": 18,
       "hide": true,
       "description": "Bike Party Panel; a gathering of Bike Party organizers from across the country."
@@ -213,7 +213,7 @@
     {
       "day": "Sunday",
       "time": "8-10am",
-      "location": "1716 Filbert St Oakland Ca",
+      "location": "1716 Filbert Street",
       "type": "Activity",
       "geocode": "37.811323,-122.282029",
       "sort": 22,
@@ -243,7 +243,7 @@
     {
       "day": "Sunday",
       "time": "10-11am",
-      "location": "Lil Bobby Hutton Park {DeFremery}",
+      "location": "Lil Bobby Hutton Park (DeFremery)",
       "type": "Discussion",
       "geocode": "37.811930,-122.286543",
       "sort": 25,
