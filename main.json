@@ -123,9 +123,9 @@
     {
       "day": "Saturday",
       "time": "10am-2pm",
-      "location": "Unknown",
+      "location": "Oakland Secret",
       "type": "Ride",
-      "geocode": "",
+      "geocode": "37.799276,-122.278190",
       "sort": 13,
       "hide": true,
       "description": "Community Bike Shop Tour"
