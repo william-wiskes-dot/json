@@ -123,7 +123,7 @@
     {
       "day": "Saturday",
       "time": "10am-2pm",
-      "location": "Oakland Secret (indoors)",
+      "location": "Oakland Secret",
       "type": "Ride",
       "geocode": "37.799276,-122.278190",
       "sort": 13,
@@ -152,28 +152,28 @@
     },
     {
       "day": "Saturday",
-      "time": "2pm-3pm",
-      "location": "Oakland Secret (inside)",
-      "type": "Oakland Secret (inside)",
-      "geocode": "37.799276,-122.278190",
-      "sort": 16,
-      "hide": true,
-      "description": "Building community through bike activism: several overlapping models"
-    },
-    {
-      "day": "Saturday",
       "time": "12-2pm",
       "location": "Lake Merritt Amphitheater",
       "type": "Discussion",
       "geocode": "37.799067,-122.260679",
-      "sort": 17,
+      "sort": 16,
       "hide": true,
       "description": "Urban infrastructure and municipal code panel "
     },
     {
       "day": "Saturday",
+      "time": "2-3pm",
+      "location": "Oakland Secret",
+      "type": "Discussion",
+      "geocode": "37.799276,-122.278190",
+      "sort": 17,
+      "hide": true,
+      "description": "Building community through bike activism: several overlapping models"
+    },
+    {
+      "day": "Saturday",
       "time": "2:30-3pm",
-      "location": "Oakland Secret (outside)",
+      "location": "Oakland Secret",
       "type": "Discussion",
       "geocode": "37.799276,-122.278190",
       "sort": 18,
@@ -192,13 +192,13 @@
     },
     {
       "day": "Saturday",
-      "time": "4-5pm",
+      "time": "4pn",
       "location": "Oakland Secret",
       "type": "Discussion",
       "geocode": "37.799276,-122.278190",
       "sort": 20,
       "hide": true,
-      "description": "Non Profit deep Dive with Tom Holub"
+      "description": "Deep Dive in to non profit management with Tom Holub"
     },
     {
       "day": "Saturday",
@@ -238,7 +238,7 @@
       "geocode": "37.811635,-122.277369",
       "sort": 24,
       "hide": true,
-      "description": "Community bench building - assembly and install. The San Francisco Bay Area Bench Collective is decentralized collaboration of local neighbors who build, install, and maintain much-needed benches."
+      "description": true
     },
     {
       "day": "Sunday",
