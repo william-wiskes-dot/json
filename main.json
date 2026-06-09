@@ -105,7 +105,7 @@
       "time": "8-10am",
       "location": "Lil Bobby Hutton Park {DeFremery}",
       "type": "Activity",
-      "geocode": "37.811930,-122.286543",
+      "geocode": "37.811323,-122.282029",
       "sort": 11,
       "hide": true,
       "description": "Breakfast and coffee"
@@ -245,7 +245,7 @@
       "time": "10-11am",
       "location": "Lil Bobby Hutton Park {DeFremery}",
       "type": "Discussion",
-      "geocode": "37.811323,-122.282029",
+      "geocode": "37.811930,-122.286543",
       "sort": 25,
       "hide": true,
       "description": "Group feedback session"
