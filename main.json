@@ -151,14 +151,14 @@
       "description": "Burner Bike Rehab. Ever wanted to learn how to bring a bicycle back from the dead? Nothing kills a bike faster than the dust from burningman, learn the steps involved in rehabbing a burningman bike."
     },
     {
-      "day": "",
-      "time": "",
-      "location": "",
-      "type": "",
-      "geocode": "",
+      "day": "Saturday",
+      "time": "2pm-3pm",
+      "location": "Oakland Secret (inside)",
+      "type": "Oakland Secret (inside)",
+      "geocode": "37.799276,-122.278190",
       "sort": 16,
-      "hide": false,
-      "description": ""
+      "hide": true,
+      "description": "Building community through bike activism: several overlapping models"
     },
     {
       "day": "Saturday",
@@ -173,7 +173,7 @@
     {
       "day": "Saturday",
       "time": "2:30-3pm",
-      "location": "Oakland Secret",
+      "location": "Oakland Secret (outside)",
       "type": "Discussion",
       "geocode": "37.799276,-122.278190",
       "sort": 18,
@@ -198,7 +198,7 @@
       "geocode": "37.799276,-122.278190",
       "sort": 20,
       "hide": true,
-      "description": "Building community through bike activism: several overlapping models"
+      "description": "Non Profit deep Dive with Tom Holub"
     },
     {
       "day": "Saturday",
@@ -299,6 +299,16 @@
       "sort": 30,
       "hide": true,
       "description": "Consensus / Dinner"
+    },
+    {
+      "day": "Sunday",
+      "time": "5-10pm",
+      "location": "4th and Jackson",
+      "type": "Activity",
+      "geocode": "37.795069,-122.269212",
+      "sort": 31,
+      "hide": true,
+      "description": "Shenanigans!!"
     }
   ]
 }
