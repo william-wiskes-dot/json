@@ -152,11 +152,21 @@
     },
     {
       "day": "Saturday",
+      "time": "Noon-3pm",
+      "location": "Spokeland",
+      "type": "Activity",
+      "geocode": "37.826744,-122.272166",
+      "sort": 16,
+      "hide": true,
+      "description": "Wheel-building with Shane. Learn how to measure a hub, find the ERD of your rim, and calculate spoke length to build your own custom wheelset."
+    },
+    {
+      "day": "Saturday",
       "time": "12-2pm",
       "location": "Lake Merritt Amphitheater",
       "type": "Discussion",
       "geocode": "37.799067,-122.260679",
-      "sort": 16,
+      "sort": 17,
       "hide": true,
       "description": "Urban infrastructure and municipal code panel "
     },
@@ -166,7 +176,7 @@
       "location": "Oakland Secret",
       "type": "Discussion",
       "geocode": "37.799276,-122.278190",
-      "sort": 17,
+      "sort": 18,
       "hide": true,
       "description": "Building community through bike activism: several overlapping models"
     },
@@ -176,7 +186,7 @@
       "location": "Oakland Secret",
       "type": "Discussion",
       "geocode": "37.799276,-122.278190",
-      "sort": 18,
+      "sort": 19,
       "hide": true,
       "description": "Presentation with author of 'Shift Happens' and one of the founders of Critical Mass"
     },
@@ -186,7 +196,7 @@
       "location": "Oakland Secret",
       "type": "Discussion",
       "geocode": "37.799276,-122.278190",
-      "sort": 19,
+      "sort": 20,
       "hide": true,
       "description": "Bike Party Panel; a gathering of Bike Party organizers from across the country."
     },
@@ -196,7 +206,7 @@
       "location": "Oakland Secret",
       "type": "Discussion",
       "geocode": "37.799276,-122.278190",
-      "sort": 20,
+      "sort": 21,
       "hide": true,
       "description": "Deep Dive in to non profit management with Tom Holub"
     },
@@ -206,7 +216,7 @@
       "location": "BORP Adaptive Cycling and Kayaking Center",
       "type": "Discussion",
       "geocode": "37.864957,-122.301797",
-      "sort": 21,
+      "sort": 22,
       "hide": true,
       "description": "Adaptive Cycling / Cycling for all Bodies"
     },
@@ -216,7 +226,7 @@
       "location": "Bay Area Maker Farm",
       "type": "Activity",
       "geocode": "37.786859,-122.291729",
-      "sort": 22,
+      "sort": 23,
       "hide": false,
       "description": "Dinner, Band, and Party. Featuring Big Tractor, the Hobo Goblins, and Eee Vee Eee"
     },
@@ -226,7 +236,7 @@
       "location": "1716 Filbert Street",
       "type": "Activity",
       "geocode": "37.811323,-122.282029",
-      "sort": 23,
+      "sort": 24,
       "hide": true,
       "description": "Breakfast and coffee"
     },
@@ -236,7 +246,7 @@
       "location": "Mingwei and Bea's House",
       "type": "Activity",
       "geocode": "37.811635,-122.277369",
-      "sort": 24,
+      "sort": 25,
       "hide": true,
       "description": "Community bench building - assembly and install. The San Francisco Bay Area Bench Collective is a decentralized collaboration of local neighbors who build, install, and maintain much-needed benches."
     },
@@ -246,7 +256,7 @@
       "location": "Wilma Chan Park",
       "type": "Ride",
       "geocode": "37.797744,-122.266451",
-      "sort": 25,
+      "sort": 26,
       "hide": true,
       "description": "Birding Ride. 9:30am meet, 10am roll. Check out some of Oaklands most striking passerines and shorebirds as we wind our way through parks and estuarial areas. Please BYOB (bring your own binoculars)"
     },
@@ -256,7 +266,7 @@
       "location": "Lil Bobby Hutton Park (DeFremery)",
       "type": "Discussion",
       "geocode": "37.811930,-122.286543",
-      "sort": 26,
+      "sort": 27,
       "hide": true,
       "description": "Group feedback session"
     },
@@ -266,7 +276,7 @@
       "location": "Snow Park, Lake Merritt ",
       "type": "Discussion",
       "geocode": "37.807700,-122.264020",
-      "sort": 27,
+      "sort": 28,
       "hide": true,
       "description": "Ride leaders: How to build and maintain a bike community + Social Mixer"
     },
@@ -276,19 +286,9 @@
       "location": "Stay Gold Deli ",
       "type": "Activity",
       "geocode": "37.817852,-122.275794",
-      "sort": 28,
-      "hide": true,
-      "description": "Bike and Transit Zine Mixer"
-    },
-    {
-      "day": "Sunday",
-      "time": "Noon-3pm",
-      "location": "Spokeland",
-      "type": "Activity",
-      "geocode": "37.826744,-122.272166",
       "sort": 29,
       "hide": true,
-      "description": "Wheel-building with Shane. Learn how to measure a hub, find the ERD of your rim, and calculate spoke length to build your own custom wheelset."
+      "description": "Bike and Transit Zine Mixer"
     },
     {
       "day": "Sunday",
