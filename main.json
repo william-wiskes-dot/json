@@ -47,7 +47,7 @@
       "type": "Ride",
       "geocode": "37.794773,-122.277270",
       "sort": 5,
-      "hide": false,
+      "hide": true,
       "description": "Oakland History Ride - meet at Jack London Square  (by the Oakland - Alameda water shuttle dock)"
     },
     {
