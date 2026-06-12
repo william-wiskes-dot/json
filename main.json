@@ -295,7 +295,7 @@
       "time": "2-3pm",
       "location": "Oakland Secret",
       "type": "Activity",
-      "geocode": "",
+      "geocode": "37.799276,-122.278190",
       "sort": 30,
       "hide": true,
       "description": "MacGuyver Bike Repair: Using objects around you for bike repair"
