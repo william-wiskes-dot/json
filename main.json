@@ -281,14 +281,14 @@
       "description": "Ride leaders: How to build and maintain a bike community + Social Mixer"
     },
     {
-      "day": "",
-      "time": "",
+      "day": "Sunday",
+      "time": "4-6pm",
       "location": "Spokeland",
-      "type": "Activity",
-      "geocode": "37.826744,-122.272166",
+      "type": "Discussion",
+      "geocode": "",
       "sort": 29,
       "hide": true,
-      "description": "Wheel-building with Shane. Learn how to measure a hub, find the ERD of your rim, and calculate spoke length to build your own custom wheelset."
+      "description": "All are welcome and encouraged to join us for a panel and conversation with Women and LGBTQ+ mechanics and community bike shop leaders from around the bay! From WTF nights at community shops to mechanics at big chain bike shops, from San Francisco to Richmond. \n\n\n\nThis is a space for all of us to learn and share with each other. Hear the experiences of W LGBTQ+ mechanics. Get to know where you can go to learn to wrench as a Woman or LGBTQ+ person. How to support mechanic spaces led by W LGBTQ+ people, and how to foster more inclusive environments in those spaces that are not led by us! "
     },
     {
       "day": "Sunday",
