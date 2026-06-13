@@ -312,11 +312,21 @@
     },
     {
       "day": "Sunday",
+      "time": "4-6pm",
+      "location": "Panel for Women and LGBTQ+ Bike Mechanics",
+      "type": "Discussion",
+      "geocode": "",
+      "sort": 32,
+      "hide": true,
+      "description": ""
+    },
+    {
+      "day": "Sunday",
       "time": "5-10pm",
       "location": "4th and Jackson",
       "type": "Activity",
       "geocode": "37.795069,-122.269212",
-      "sort": 32,
+      "sort": 33,
       "hide": true,
       "description": "Shenanigans!!"
     }
