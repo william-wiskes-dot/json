@@ -151,14 +151,14 @@
       "description": "Burner Bike Rehab. Ever wanted to learn how to bring a bicycle back from the dead? Nothing kills a bike faster than the dust from burningman, learn the steps involved in rehabbing a burningman bike."
     },
     {
-      "day": "Saturday",
-      "time": "Noon-3pm",
-      "location": "Spokeland",
-      "type": "Activity",
-      "geocode": "37.826744,-122.272166",
+      "day": "",
+      "time": "",
+      "location": "",
+      "type": "",
+      "geocode": "",
       "sort": 16,
-      "hide": true,
-      "description": "Wheel-building with Shane. Learn how to measure a hub, find the ERD of your rim, and calculate spoke length to build your own custom wheelset."
+      "hide": "",
+      "description": ""
     },
     {
       "day": "Saturday",
@@ -319,6 +319,16 @@
       "sort": 32,
       "hide": true,
       "description": "Shenanigans!!"
+    },
+    {
+      "day": "Sunday",
+      "time": "Noon-3pm",
+      "location": "Spokeland",
+      "type": "Activity",
+      "geocode": "37.826744,-122.272166",
+      "sort": 33,
+      "hide": true,
+      "description": "Wheel-building with Shane. Learn how to measure a hub, find the ERD of your rim, and calculate spoke length to build your own custom wheelset."
     }
   ]
 }
