@@ -282,11 +282,21 @@
     },
     {
       "day": "Sunday",
-      "time": "2-3pm",
+      "time": "1pm-2pm",
       "location": "Oakland Secret",
       "type": "Activity",
       "geocode": "37.799276,-122.278190",
       "sort": 29,
+      "hide": true,
+      "description": ""
+    },
+    {
+      "day": "Sunday",
+      "time": "2-3pm",
+      "location": "Oakland Secret",
+      "type": "Activity",
+      "geocode": "37.799276,-122.278190",
+      "sort": 30,
       "hide": true,
       "description": "MacGuyver Bike Repair: Using objects around you for bike repair"
     },
@@ -296,7 +306,7 @@
       "location": "Oakland Secret",
       "type": "Discussion",
       "geocode": "37.799276,-122.278190",
-      "sort": 30,
+      "sort": 31,
       "hide": true,
       "description": "Consensus / Dinner"
     },
@@ -306,7 +316,7 @@
       "location": "Biketopia Annex",
       "type": "Discussion",
       "geocode": "37.8389953,-122.2915284",
-      "sort": 31,
+      "sort": 32,
       "hide": true,
       "description": "Panel for and with Women and LGBTQ+ Bike Mechanics"
     },
@@ -316,7 +326,7 @@
       "location": "4th and Jackson",
       "type": "Activity",
       "geocode": "37.795069,-122.269212",
-      "sort": 32,
+      "sort": 33,
       "hide": true,
       "description": "Shenanigans!!"
     }
