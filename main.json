@@ -281,8 +281,8 @@
       "description": "Bike and Transit Zine Mixer"
     },
     {
-      "day": "Sunday",
-      "time": "Noon-3pm",
+      "day": "",
+      "time": "",
       "location": "Spokeland",
       "type": "Activity",
       "geocode": "37.826744,-122.272166",
