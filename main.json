@@ -315,18 +315,8 @@
       "time": "4-6pm",
       "location": "Biketopia Annex",
       "type": "Discussion",
-      "geocode": "37.826744,-122.272166",
-      "sort": 32,
-      "hide": true,
-      "description": "All are welcome and encouraged to join us for a panel and conversation with Women and LGBTQ+ mechanics and community bike shop leaders from around the bay! From WTF nights at community shops to mechanics at big chain bike shops, from San Francisco to Richmond. \n\n\n\nThis is a space for all of us to learn and share with each other. Hear the experiences of W LGBTQ+ mechanics. Get to know where you can go to learn to wrench as a Woman or LGBTQ+ person. How to support mechanic spaces led by W LGBTQ+ people, and how to foster more inclusive environments in those spaces that are not led by us! "
-    },
-    {
-      "day": "Sunday",
-      "time": "4-6pm",
-      "location": "Biketopia Annex",
-      "type": "Discussion",
       "geocode": "37.8389953,-122.2915284",
-      "sort": 33,
+      "sort": 32,
       "hide": true,
       "description": "Panel for and with Women and LGBTQ+ Bike Mechanics"
     },
@@ -336,7 +326,7 @@
       "location": "4th and Jackson",
       "type": "Activity",
       "geocode": "37.795069,-122.269212",
-      "sort": 34,
+      "sort": 33,
       "hide": true,
       "description": "Shenanigans!!"
     }
