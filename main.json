@@ -281,22 +281,12 @@
       "description": "Bike and Transit Zine Mixer"
     },
     {
-      "day": "",
-      "time": "",
-      "location": "Spokeland",
-      "type": "Activity",
-      "geocode": "37.826744,-122.272166",
-      "sort": 29,
-      "hide": true,
-      "description": "Wheel-building with Shane. Learn how to measure a hub, find the ERD of your rim, and calculate spoke length to build your own custom wheelset."
-    },
-    {
       "day": "Sunday",
       "time": "2-3pm",
       "location": "Oakland Secret",
       "type": "Activity",
       "geocode": "37.799276,-122.278190",
-      "sort": 30,
+      "sort": 29,
       "hide": true,
       "description": "MacGuyver Bike Repair: Using objects around you for bike repair"
     },
@@ -306,7 +296,7 @@
       "location": "Oakland Secret",
       "type": "Discussion",
       "geocode": "37.799276,-122.278190",
-      "sort": 31,
+      "sort": 30,
       "hide": true,
       "description": "Consensus / Dinner"
     },
@@ -316,7 +306,7 @@
       "location": "Biketopia Annex",
       "type": "Discussion",
       "geocode": "37.8389953,-122.2915284",
-      "sort": 32,
+      "sort": 31,
       "hide": true,
       "description": "Panel for and with Women and LGBTQ+ Bike Mechanics"
     },
@@ -326,7 +316,7 @@
       "location": "4th and Jackson",
       "type": "Activity",
       "geocode": "37.795069,-122.269212",
-      "sort": 33,
+      "sort": 32,
       "hide": true,
       "description": "Shenanigans!!"
     }
