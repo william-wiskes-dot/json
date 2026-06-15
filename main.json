@@ -323,9 +323,9 @@
     {
       "day": "Sunday",
       "time": "5-10pm",
-      "location": "4th and Jackson",
+      "location": "4th and Jefferson",
       "type": "Activity",
-      "geocode": "37.795069,-122.269212",
+      "geocode": "37.79886108546042,-122.27909729963915",
       "sort": 33,
       "hide": true,
       "description": "Shenanigans!!"
