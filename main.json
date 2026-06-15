@@ -322,8 +322,8 @@
     },
     {
       "day": "Sunday",
-      "time": "5-10pm",
-      "location": "4th and Jefferson",
+      "time": "6:30-10pm",
+      "location": "4th and Clay",
       "type": "Activity",
       "geocode": "37.79886108546042,-122.27909729963915",
       "sort": 33,
